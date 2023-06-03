@@ -4,6 +4,8 @@
 
 This series of notebooks highlights the use over Vertex AI Generative AI for workflows that include using Google's large generative AI models.  Read more about these exciting new features of Vertex AI [here](https://cloud.google.com/vertex-ai/docs/generative-ai/learn/overview).
 
+PREP FOR GEN AI JUNE 2, 2023
+
 ---
 **Install**
 
